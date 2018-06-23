@@ -1,4 +1,4 @@
 # kakis-web-waste-tracking
 
-Tryed Laravel: routing, login/registration flow, database updating, ...
+Tried Laravel: routing, login/registration flow, database updating, ...<br>
 Stopped at QR code reader implementation
